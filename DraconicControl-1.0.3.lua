@@ -9,11 +9,10 @@ local outputMultiplier = 1.0
 --Do not change anything below
 
 
-local version = "1.0.2" --by electronx3
+local version = "1.0.3" --by electronx3 modified by KunKzz
 
 --constants
 local val_1div3 = 1.0/3.0
-
 
 --config
 

@@ -9,7 +9,7 @@ local outputMultiplier = 1.0
 --Do not change anything below
 
 
-local version = "1.0.3" --by electronx3 modified by KunKzz
+local version = "1.0.3" --by electronx3 modified by GonBit
 
 --constants
 local val_1div3 = 1.0/3.0
